@@ -48,11 +48,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [getBytes()引发的编码错误](http://kesx.me/2021/09/23/getbytes%e5%bc%95%e5%8f%91%e7%9a%84%e7%bc%96%e7%a0%81%e9%94%99%e8%af%af/)
 - [Youtube-dl Webui](http://kesx.me/2021/08/01/youtube-dl-webui/)
 - [慎用-all依赖](http://kesx.me/2021/07/29/%e6%85%8e%e7%94%a8-all%e4%be%9d%e8%b5%96/)
 - [怦然心动的人生整理魔法](http://kesx.me/2021/07/28/%e6%80%a6%e7%84%b6%e5%bf%83%e5%8a%a8%e7%9a%84%e4%ba%ba%e7%94%9f%e6%95%b4%e7%90%86%e9%ad%94%e6%b3%95/)
 - [Woop思维心理学](http://kesx.me/2021/07/28/woop%e6%80%9d%e7%bb%b4%e5%bf%83%e7%90%86%e5%ad%a6/)
-- [Anne of green gables](http://kesx.me/2021/07/28/anne-of-green-gables/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://kesx.me)
